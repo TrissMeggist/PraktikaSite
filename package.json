@@ -1,0 +1,25 @@
+{
+  "name": "praktikasite",
+  "version": "1.0.0",
+  "description": "This is site about Restaurnt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrissMeggist/PraktikaSite.git"
+  },
+  "author": "Dmitry Borisov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TrissMeggist/PraktikaSite/issues"
+  },
+  "homepage": "https://github.com/TrissMeggist/PraktikaSite#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-pug": "^5.0.0",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.44.0"
+  }
+}
